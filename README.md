@@ -1,1 +1,2 @@
 # Standardization
+standardization method
